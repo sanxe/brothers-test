@@ -1,0 +1,55 @@
+nav{
+    float: right;
+    position: absolute left;
+    size: 40px;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: whitesmoke;
+    background-image: url('adrien-olichon-RCAhiGJsUUE-unsplash.jpg');
+    background-size: 1380px;
+    background-repeat: no-repeat;
+}
+
+img{
+    float: center left;
+    width: 190px;
+    border-radius: 120cm;
+}
+
+.introduction{
+    float: top left;
+    margin-top: auto;
+}
+
+.container{
+    width: 1290;
+    border: 15px;
+    padding: 40px;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.info{
+    width: 650px;
+    height: 300px;
+    border: 15px solid whitesmoke;
+    border-radius: 30px;
+    padding: 40px ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+}
+
+.desc{
+    line-height: 55px;
+    color: black;
+}
+
+.photo{
+    float: right;
+    width: 190px;
+}
